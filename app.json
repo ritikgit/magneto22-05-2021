@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/sanakek/magneto-python-aria.git",
-    "website": "https://github.com/sanakek/magneto-python-aria/tree/master",
-    "success_url": "https://github.com/lzzy12/python-aria-mirror-bot/blob/master/README.md",
+    "repository": "https://github.com/cocoamartin/magneto-python-aria-2.git",
+    "website": "https://github.com/cocoamartin/magneto-python-aria-2/tree/master",
+    "success_url": "https://github.com/cocoamartin/magneto-python-aria-2/blob/master/README.md",
     "stack": "container",
     "env": {
       "ENV": {
